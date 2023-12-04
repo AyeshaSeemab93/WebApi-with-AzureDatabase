@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A9164C61-E035-4C80-96AE-4DDCCF4FA7B7}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Azure Database with webApi" expanded="True" selected="True">
+            <Node name="Azure Database with webApi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Azure_220Database_220with_220webApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
