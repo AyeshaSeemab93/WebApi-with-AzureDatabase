@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{A9164C61-E035-4C80-96AE-4DDCCF4FA7B7}|http">
+﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -6,9 +6,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Azure Database with webApi" expanded="True" selected="True">
-            <Node name="Azure Database with webApi" expanded="True" />
-          </Node>
+          <Node name="Azure Database with webApi" selected="True" />
         </State>
       </Pad>
     </Pads>
